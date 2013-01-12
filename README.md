@@ -4,7 +4,7 @@ juxtapose
 Annotation-driven MBean exporting for Java
 
 Usage
-=====
+-----
 
 Annotate attributes for export:
 
